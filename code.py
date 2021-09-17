@@ -34,7 +34,7 @@ show(s1, s2, s3)
 
 dots3=circle(r=12,x=0,y=50,fill="Gold",stroke="gold")|repeat(6,rotate(60))
 show(dots3)
-dots6=circle(r=8.5,x=-47, y=82,fill="gold",stroke="gold")|repeat(6,rotate(60))
+dots6=circle(r=8.5,x=-46, y=82,fill="gold",stroke="gold")|repeat(6,rotate(60))
 show(dots6)
 outcircleb = circle(stroke_width=7,stroke="darkgreen")
 show(outcircleb)
